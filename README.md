@@ -8,7 +8,7 @@ In this project a static webpage that lacks accessibility is given to be convert
 ```
 git clone https://github.com/camilalopes/restaurant-reviews.git
 ```
-2. Inside the project directory run npm install
+2. Inside the project directory run `npm install`
 
 3. Start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, so if you already had a python version installed you can simple:
 
