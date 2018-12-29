@@ -19,4 +19,4 @@ git clone https://github.com/camilalopes/restaurant-reviews.git
 
 ## Note
 
-This tests suite is a personal project but feel free to send me suggestions and corrections. :hearts:
+This is a personal project created as part of the Udacity's Advanced Web Front-End Nanodegree. Feel free to send me suggestions and corrections. :hearts:
